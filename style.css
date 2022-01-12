@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  background: #111;
+  text-align: center;
+}
+
+body > img {
+  margin-bottom: 10vh;
+  padding-top: 10vh;
+}
+.skewElem {
+  font-size: 40px;
+  color: white;
+}
